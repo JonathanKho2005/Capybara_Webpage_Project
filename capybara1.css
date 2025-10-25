@@ -1,0 +1,49 @@
+body{
+    background-color: #FBEAD6;
+    margin: 0;
+}
+
+.headerImg1{
+    background-image: url("CapyHeader1.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 300px;
+}
+
+.textPg1{
+    border-style: dotted;
+    border-width: 5px;
+    border-color :#B79A78;
+    border-radius: 10px;
+    padding: 5px;
+
+}
+
+#contentList{
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+    font-family: 'Lobster', cursive;
+}
+
+#contentList a{
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+#contentList a:hover{
+    color: #333;
+    text-decoration: wavy;
+}
+
+.hdttl{
+    font-family: 'Abril Fatface', serif;
+}
+
+th{
+    text-align: center;
+    padding: 10px;
+}
